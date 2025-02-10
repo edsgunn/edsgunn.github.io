@@ -11,6 +11,11 @@
         "network": "LinkedIn",
         "username": "edward-gunn",
         "url": "https://www.linkedin.com/in/edward-gunn/"
+      },
+      {
+        "network": "GitHub",
+        "username": "edsgunn",
+        "url": "https://github.com/edsgunn"
       }
     ]
   },
