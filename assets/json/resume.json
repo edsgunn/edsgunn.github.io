@@ -29,14 +29,12 @@
       "highlights": ["Radar Pulse Deinterleaving"]
     }
   ],
-  "publications": [
-    {
-      "name": "Radar Pulse Deinterleaving with Transformer Based Metric Learning",
-      "publisher": "IEEE International Radar Conference 2025",
-      "releaseDate": "2025-05-02",
-      "summary": "When receiving radar pulses it is common for a recorded pulse train to contain pulses from many different emitters. The radar pulse deinterleaving problem is the task of separating out these pulses by the emitter from which they originated. Notably, the number of emitters in any particular recorded pulse train is considered unknown. In this paper, we define the problem and present metrics that can be used to measure model performance. We propose a metric learning approach to this problem using a transformer trained with the triplet loss on synthetic data. This model achieves strong results in comparison with other deep learning models with an adjusted mutual information score of 0.882."
-    }
-  ],
+  "publications": [{
+    "name": "Radar Pulse Deinterleaving with Transformer Based Metric Learning",
+    "publisher": "IEEE International Radar Conference 2025",
+    "releaseDate": "2025-05-02",
+    "summary": "When receiving radar pulses it is common for a recorded pulse train to contain pulses from many different emitters. The radar pulse deinterleaving problem is the task of separating out these pulses by the emitter from which they originated. Notably, the number of emitters in any particular recorded pulse train is considered unknown. In this paper, we define the problem and present metrics that can be used to measure model performance. We propose a metric learning approach to this problem using a transformer trained with the triplet loss on synthetic data. This model achieves strong results in comparison with other deep learning models with an adjusted mutual information score of 0.882."
+  }],
   "education": [
     {
       "institution": "University of Oxford",
@@ -54,7 +52,12 @@
     {
       "name": "AI",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Argumentative Reasoning", "Multi-agent systems", "Open-endedness", "Large language models"]
+      "keywords": [
+        "Argumentative Reasoning",
+        "Multi-agent systems",
+        "Open-endedness",
+        "Large language models"
+      ]
     }
   ]
 }
