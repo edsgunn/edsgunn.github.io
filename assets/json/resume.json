@@ -20,11 +20,16 @@
       "position": "Radio Frequency Data Scientist",
       "url": "https://www.turing.ac.uk",
       "startDate": "2023-09-18",
-      "endDate": "Present",
       "summary": "Edward Gunn has served as a Radio Frequency Data Scientist at The Alan Turing Institute in London since September 2023, working within the Electromagnetic Environment Program of the Defence AI Research Centre. His primary research has focused on transformer-based metric learning for radar pulse deinterleaving, where he has achieved 96.1% accuracy on synthetic datasets using JAX-implemented pipelines. This work has shown superior performance compared to previous GRU-based methods, particularly in handling complex radar environments with frequency-hopping and variable PRI emitters. Gunn has presented this research at both the EMSIG Symposium and Foundation Models Reading Group. Beyond his core research, he maintains active engagement with external stakeholders, mentors research interns, supervises secondment students, and organizes weekly DARe reading group discussions. He has enhanced his expertise through participation in the OxML Summer School 2024, focusing on MLx Representation Learning and Generative AI, and has obtained Nvidia DLI qualification in Fundamentals of Deep Learning. He also serves as an organizer of the ATI climbing club.Ÿ",
       "highlights": ["Radar Pulse Deinterleaving"]
     }
   ],
+  "publications": [{
+    "name": "Radar Pulse Deinterleaving with Transformer Based Metric Learning",
+    "publisher": "IEEE International Radar Conference 2025",
+    "releaseDate": "2025-05-02",
+    "summary": "When receiving radar pulses it is common for a recorded pulse train to contain pulses from many different emitters. The radar pulse deinterleaving problem is the task of separating out these pulses by the emitter from which they originated. Notably, the number of emitters in any particular recorded pulse train is considered unknown. In this paper, we define the problem and present metrics that can be used to measure model performance. We propose a metric learning approach to this problem using a transformer trained with the triplet loss on synthetic data. This model achieves strong results in comparison with other deep learning models with an adjusted mutual information score of 0.882."
+  }],
   "education": [
     {
       "institution": "University of Oxford",
