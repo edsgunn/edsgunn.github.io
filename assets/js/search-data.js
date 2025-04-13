@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "news-a-simple-inline-announcement",
+            },{id: "post-tuning-chain-of-thought-on-questions-with-verifiable-answers",
+      
+        title: "Tuning chain of thought on questions with verifiable answers",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/incentivising-correctness/";
+        
+      },
+    },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
