@@ -2,6 +2,7 @@
 layout: post
 title: Tuning chain of thought on questions with verifiable answers
 date: 2025-04-13 16:46:30
+featured: true
 ---
 
 A recent paradigm in training reasoning models is to tune them on questions where the answers are verifiable. We train them to generate chains of thought that are useful to come to correct answers by rewarding them for doing so. If the answer they produce is correct we reward them regardless of what is actually in the chain of thought. Here I will discuss how this paradigm is related to the full generality of reasoning and see how it can be expanded to produce more intelligible chains of thought.
