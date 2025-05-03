@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-tuning-chain-of-thought-on-questions-with-verifiable-answers",
+            },{id: "post-can-llms-really-be-intelligent",
+      
+        title: "Can LLMs really be intelligent?",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/can-llms-really-be-intelligent/";
+        
+      },
+    },{id: "post-tuning-chain-of-thought-on-questions-with-verifiable-answers",
       
         title: "Tuning chain of thought on questions with verifiable answers",
       
