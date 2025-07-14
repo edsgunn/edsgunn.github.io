@@ -172,6 +172,7 @@ exclude:
   - "_pages/profiles.md"
   - "_pages/repositories.md"
   - "_pages/teaching.md"
+  - _projects/?_project.md
   - CONTRIBUTING.md
   - CUSTOMIZE.md
   - Dockerfile
