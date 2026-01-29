@@ -23,6 +23,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Ed. I currently research AI for radar at [The Alan Turing Institute](https://www.turing.ac.uk/). My interests include reasoning, multi-agent systems, LLMs, open-endedness, and philosophy of mind. I am a keen proponent of the [argumentative theory of reasoning](https://www.dan.sperber.fr/wp-content/uploads/2009/10/MercierSperberWhydohumansreason.pdf) and think it could prove instrumental to unlocking reasoning in AI.
+Hi! I'm Ed. I currently a PhD Student in the [Cooperative AI Lab](https://coopai.kcl.ac.uk/) at [King's Collect London](https://kcl.ac.uk) under the supervision of [Yali Du](https://yalidu.github.io/). Previously I was a researcher in AI for radar at [The Alan Turing Institute](https://www.turing.ac.uk/). My interests include reasoning, multi-agent systems, LLMs, open-endedness, and philosophy of mind. I am a keen proponent of the [argumentative theory of reasoning](https://www.dan.sperber.fr/wp-content/uploads/2009/10/MercierSperberWhydohumansreason.pdf) and think it could prove instrumental to unlocking reasoning in AI.
 
 Besides research, I run and climb a little too much. I am an avid reader and can be partial to a beer. Recently I have started trying to pick up photography, learn the piano, and practice vipassana meditation.
